@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: lasergrid-render
+Version: 0.1.0
+Summary: Automation helpers to procedurally render Blender dioramas
+Author: LaserGrid
+Requires-Python: >=3.10
+Requires-Dist: PyYAML>=6.0
+Requires-Dist: pathvalidate>=3.2
+Requires-Dist: fake-bpy-module-4-2
